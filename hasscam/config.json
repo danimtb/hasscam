@@ -1,0 +1,14 @@
+{
+  "name": "Hasscam",
+  "version": "0.0.0",
+  "slug": "hasscam",
+  "description": "Hass.io camera addon to capture images from usb cameras",
+  "url": "https://github.com/danimtb/hasscam",
+  "startup": "services",
+  "boot": "auto",
+  "host_network": "True",
+  "homeassistant_api": "True",
+  "map": ["share"],
+  "options": {},
+  "schema": {}
+}
